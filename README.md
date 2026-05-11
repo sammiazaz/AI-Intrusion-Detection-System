@@ -19,7 +19,7 @@ The project is deployed and accessible at:
 - **Modern UI:** A clean, professional, and responsive dashboard built with modern web standards.
 
 ---
-
+ 
 ## 🛠️ Tech Stack
 
 - **Backend:** [FastAPI](https://fastapi.tiangolo.com/) (Python)
