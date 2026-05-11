@@ -20,7 +20,7 @@ The project is deployed and accessible at:
 
 ---
  
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 - **Backend:** [FastAPI](https://fastapi.tiangolo.com/) (Python)
 - **Machine Learning:** [Scikit-learn](https://scikit-learn.org/), Pandas, NumPy
