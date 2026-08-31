@@ -4,7 +4,7 @@ An intelligent, web-based Network Intrusion Detection System designed to monitor
 
 ## 🚀 Live Demo
 The project is deployed and accessible at: 
-**[https://ai-intrusion-detection-system.onrender.com](https://ai-intrusion-detection-system-s55e.onrender.com/)**
+**[https://ai-intrusion-detection-system.onrender.com](https://ai-intrusion-detection-system-s1i0.onrender.com/)**
 *(Note: May take ~50s to load if it's "sleeping")*
 
 ---
